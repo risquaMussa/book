@@ -3,9 +3,9 @@ import React from "react";
 const Header = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">
+      <button class="navbar-brand" type="button">
         Book Finder
-      </a>
+      </button>
       <button
         class="navbar-toggler"
         type="button"
